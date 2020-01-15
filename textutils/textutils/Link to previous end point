@@ -1,0 +1,16 @@
+# def capitalizefirst(request):
+#     # return HttpResponse("capitalizefirst")
+#     s = """<button><a href ='http://127.0.0.1:8000/newlineremove'</a>newlineremove</button>"""
+#     return HttpResponse(s)
+# def newlineremove(request):
+#     # return HttpResponse('newlinerremove')
+#     s = """<button><a href ='http://127.0.0.1:8000/spaceremove'</a>spaceremove</button>"""
+#     return HttpResponse(s)
+# def spaceremove(request):
+#     # return HttpResponse("spaceremove")
+#     s = """<button><a href ='http://127.0.0.1:8000/charcount'</a>charcount</button>"""
+#     return HttpResponse(s)
+# def charcount(request):
+#     # return HttpResponse('charcount')
+#     s = """<button><a href ='http://127.0.0.1:8000'</a>Home</button>"""
+#     return HttpResponse(s)

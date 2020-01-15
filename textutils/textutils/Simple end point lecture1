@@ -1,0 +1,15 @@
+# pratice 1
+#
+# # def about(request):
+# #     return HttpResponse("About Manish")
+#
+# # def read(request):
+# #     f1 = open("one.txt","r")
+# #     return HttpResponse(f1.read())
+#
+# # def Navigation(request):
+# #     s = '''<h2>Navigation Link</h2>
+# #             <a href = "https://www.youtube.com/watch?v=AepgWsROO4k&list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9&index=7">Django tutorial</a>
+# #             <br>
+# #             <a href = "https://www.facebook.com/">Facebook</a>'''
+# #     return HttpResponse(s)
